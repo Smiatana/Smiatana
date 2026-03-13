@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da" width="650" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,cs,dotnet,unity,godot,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cs,java,vite,react,vue,dotnet,unity,godot,mysql,postgresql)](https://skillicons.dev)
 
 ---
 
