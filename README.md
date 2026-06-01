@@ -7,37 +7,19 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true&theme=omni"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true&theme=default"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=default"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true&theme=omni)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni)
 
 ---
 
 **Some of my projects**
 
+- 
+- <a href="https://github.com/Smiatana/gamestrans">GamesTrans</a> - a web app for sharing Belarusian game translations on Spring Boot
+- <a href="https://github.com/Smiatana/SlovaShare">SlovaShare</a> - a web app for cooperative storywriting on React and ASP.NET
+- <a href="https://github.com/Smiatana/ASSVersionControl">ASS Version Control</a> - a desktop app for reviewing subtitle translations in .ass format
+- <a href="https://github.com/Smiatana/shop-front">Stekier</a> - a tech shop web app on Vue.js and ASP.NET
 - <a href="https://github.com/Smiatana/gambling">BoyBet</a> - gambling learning web app on React
-- <a href="https://github.com/Smiatana/FPS">Brainrot Survival</a> - zombie shooter with bonuses on Unity
-- <a href="https://github.com/Smiatana/pvpbullethell">PVP Bullet Hell</a> - my attempt in making a multiplayer game on Godot
 
 
 
