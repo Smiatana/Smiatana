@@ -7,12 +7,17 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Smiatana&theme=omni" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&theme=omni"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
