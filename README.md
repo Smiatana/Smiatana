@@ -7,9 +7,12 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smiatana)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 **Some of my projects**
 
-- 
 - <a href="https://github.com/Smiatana/gamestrans">GamesTrans</a> - a web app for sharing Belarusian game translations on Spring Boot
 - <a href="https://github.com/Smiatana/SlovaShare">SlovaShare</a> - a web app for cooperative storywriting on React and ASP.NET
 - <a href="https://github.com/Smiatana/ASSVersionControl">ASS Version Control</a> - a desktop app for reviewing subtitle translations in .ass format
