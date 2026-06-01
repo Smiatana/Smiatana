@@ -9,14 +9,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&theme=omni"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true&theme=omni"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true&theme=default"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smiatana&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=default"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320" />
 </picture>
 
 ---
