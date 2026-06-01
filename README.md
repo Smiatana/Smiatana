@@ -7,10 +7,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smiatana)](https://github.com/Smiatana/github-readme-stats&theme=radical)
-
----
-
 **Some of my projects**
 
 - <a href="https://github.com/Smiatana/gamestrans">GamesTrans</a> - a web app for sharing Belarusian game translations on Spring Boot
